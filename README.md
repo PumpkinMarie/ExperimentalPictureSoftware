@@ -8,7 +8,7 @@ ExperimentalPictureSoftware is a software used to drive a "forced choice" experi
 
 First, open the ExperimentalPictureSoftware folder and launch the executable of the same name.
 The menu that appears will then allow you to define the parameters of the experiment. You can choose a sound frequency to cast before each picture and the background color. The "Pictures" folder contains the wallpaper images as well as two folders containing the images that you'll want to use. If the white background is chosen in the menu, the images from the "PicturesW" folder will be displayed. 
-Choose a file name where your data will be saved. The "start the full test" option will create a folder of the given name and executes the test for each background color and each sound frequency.
+Choose a file name where your data will be saved. The "start the full test" option will create a folder of the given name and execute the test for each background color and each sound frequency.
 
 Once the test is launched, a background appears and the program waits for a keyboard input to make the images appear randomly.
 To move to the next image, press "1" for left or "2" for right depending on your answer to the test subject. 
