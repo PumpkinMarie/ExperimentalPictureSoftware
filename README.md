@@ -1,23 +1,26 @@
 
 ### Description
 
-ExperimentalPictureSoftware est un logiciel permettant de piloter une expérience de type "choix forcé" à deux alternatives. L'utilisateur doit choisir pour plusieurs images une réponse parmi deux proposées. Ses temps et ses réponses sont alors enregistrées.   
+ExperimentalPictureSoftware is a software used to drive a "forced choice" experiment with two alternatives. The user must choose for several pictures one of two proposed responses. His times and answers are recorded.  
 
 
-#### Utilisation
+#### How to use
 
-Pour utiliser le logiciel ouvrez le dossier ExperimentalPictureSoftware et lancez l'exécutable du même nom. 
-Le menu qui apparaît alors vous permettra de définir les paramètres du test à lancer. Vous pouvez choisir une fréquence sonore à lancer avant chaque image, et la couleur du fond d'écran et des images. Le dossier Pictures contient les images de fond d'écran ainsi que deux dossiers contenant les images à fond noir et blanc. Si le fond blanc est choisi dans le menu ce sera les images du dossier PicturesW qui s'afficheront. Vous pouvez ainsi rajouter vos propres images de test.
-Choisissez un nom de fichier dans lequelles vos données seront enregistrés. L'option pour commencer le test complet va créer un dossier du nom donné et lancera le test pour chaque couleur de fond et chaque fréquence sonore. 
-Une fois le test lancé un fond apparait et attend qu'un input clavier se fasse pour faire apparaitre les images dans un ordre aléatoire. Pour passer à l'image suivante appuyer sur les touches "1" pour gauche ou "2" pour droite selon votre réponse au sujet de test.
+First, open the ExperimentalPictureSoftware folder and launch the executable of the same name.
+The menu that appears then will allow you to define the parameters of the experiment. You can choose a sound frequency to cast before each picture and the background color. The "Pictures" folder contains the wallpaper images as well as two folders containing the images you want to use. If the white background is chosen in the menu it will be the images from the "PicturesW" folder that will be displayed. 
+Choose a file name where your data will be saved. The option to start the full test will create a folder of the given name and will start the test for each background color and each sound frequency.
 
-#### Résultats
+Once the test is launched, a background appears and the program waits for a keyboard input to make the images appear randomly.
+To move to the next image, press "1" for left or "2" for right depending on your answer to the test subject. 
 
-Les résultats sont stockées dans un fichier Excel dans le dossier "Results". La première colonne contient la réponse clavier. La deuxième sera le temps de réponse en millisecondes et la troisième le nom de l'image. Dans une quatrième colonne sont indiqués la fréquence sonore, la couleur de fond et le nom du fichier.
+#### Results
+
+The results are stored in an Excel file in the "Results" folder. The first column contains the keyboard response. The second is the reponse time in milliseconds and the third is the name of the image. In the fourth column are indicated the sound frequency, the background color and the file's name. 
 
 
-### Modules supplémentaires
+### Additional modules
 
-#### Calcul du contraste
+#### Contrast calculation
 
-Ce logiciel permet de calculer le contraste à partir de deux valeurs de luminance. Dans le menu rentrez vos valeurs de luminance du fond et du pattern puis clicker sur "Calcul du contraste" . 
+This software makes it possible to calculate the contrast from two luminance values. In the menu enter your luminance values of the background and the pattern, then click on "Calcul du contraste".
+
