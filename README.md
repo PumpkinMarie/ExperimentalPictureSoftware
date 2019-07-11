@@ -23,4 +23,3 @@ The results are stored in an Excel file in the "Results" folder. The first colum
 #### Contrast calculation
 
 This software makes it possible to calculate the contrast from two luminance values. In the menu enter your luminance values of the background and the pattern, then click on "Calcul du contraste".
-
