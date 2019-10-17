@@ -1,7 +1,7 @@
 
 ### Description
 
-ExperimentalPictureSoftware is a software used to drive a "forced choice" experiment with two alternatives. The user must choose for several pictures one of two proposed answers. His times and answers are recorded.  
+This is a software used to drive a "forced choice" experiment with two alternatives. The user must choose for several pictures one of two proposed answers. His times and answers are recorded.  
 
 
 #### How to use
